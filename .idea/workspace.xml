@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c49ea26a-1a93-47cf-9835-447135320c36" name="Default Changelist" comment="Test">
+    <list default="true" id="c49ea26a-1a93-47cf-9835-447135320c36" name="Default Changelist" comment="Test #2">
       <change afterPath="$PROJECT_DIR$/../../Java Network/.idea/artifacts/Java_Network_war_exploded.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Java Network/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Java Network/.idea/modules.xml" afterDir="false" />
@@ -651,9 +651,6 @@
       <change afterPath="$PROJECT_DIR$/../../Mobile app dev/chap4/gradlew" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Mobile app dev/chap4/gradlew.bat" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Mobile app dev/chap4/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ie/gmit/Counter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ie/gmit/Counter_test.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Maven/.idea/.name" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Maven/.idea/compiler.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Maven/.idea/encodings.xml" afterDir="false" />
@@ -672,6 +669,7 @@
       <change afterPath="$PROJECT_DIR$/../Week10lab/Week10/src/ie/gmit/productv4/horse.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Week10lab/Week10/src/ie/gmit/productv4/printable.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Week10lab/Week10/src/ie/gmit/resources/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -698,8 +696,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/ie/gmit/Counter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+            <state relative-caret-position="289">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
               <folding>
                 <element signature="e#173#174#0" expanded="true" />
                 <element signature="e#195#196#0" expanded="true" />
@@ -734,7 +732,8 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -851,6 +850,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Maven" />
@@ -859,7 +859,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -889,18 +889,26 @@
       <option name="presentableId" value="Default" />
       <updated>1581592483474</updated>
       <workItem from="1581592484734" duration="77000" />
-      <workItem from="1581592588392" duration="794000" />
+      <workItem from="1581592588392" duration="1521000" />
     </task>
+    <task id="LOCAL-00001" summary="Test #2">
+      <created>1581594048874</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581594048874</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="871000" />
+    <option name="totallyTimeSpent" value="1598000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25305623" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25305623" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -924,7 +932,7 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info active="true" anchor="right" id="Maven" order="5" visible="true" weight="0.3294621" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.3294621" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Database" order="8" />
@@ -935,7 +943,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Test" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test" />
+    <MESSAGE value="Test #2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test #2" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
@@ -961,8 +970,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ie/gmit/Counter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
           <folding>
             <element signature="e#173#174#0" expanded="true" />
             <element signature="e#195#196#0" expanded="true" />
