@@ -1,675 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c49ea26a-1a93-47cf-9835-447135320c36" name="Default Changelist" comment="Test #2">
-      <change afterPath="$PROJECT_DIR$/../../Java Network/.idea/artifacts/Java_Network_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java Network/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java Network/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java Network/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java Network/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java Network/Collection perf/DataBase/src/DisplayQueryResults.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java Network/Collection perf/DataBase/src/ResultSetTableModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java Network/Collection perf/UDP/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java Network/Collection perf/UDP/src/AudioUDPClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java Network/Collection perf/UDP/src/AudioUDPServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java Network/Collection perf/UDP/src/UDPClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java Network/Collection perf/UDP/src/UDPEchoClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java Network/Collection perf/UDP/src/UDPEchoServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java Network/Collection perf/UDP/src/UDPMulticastClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java Network/Collection perf/UDP/src/UDPMulticastClient1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java Network/Collection perf/UDP/src/UDPMulticastClient2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java Network/Collection perf/UDP/src/UDPMulticastServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java Network/Collection perf/UDP/src/UDPServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java Network/Collection perf/Workerexpl/.idea/libraries/commons_io_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java Network/Collection perf/Workerexpl/.idea/libraries/commons_lang3_3_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java Network/Collection perf/Workerexpl/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java Network/Collection perf/Workerexpl/SWinAction/SWinAction.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java Network/Collection perf/Workerexpl/SWinAction/src/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java Network/Collection perf/Workerexpl/SWinAction/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java Network/Collection perf/Workerexpl/SWinAction/src/SearchForWordWorker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java Network/Collection perf/Workerexpl/src/SWDEmo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java Network/Database_ExampleCode/ch08/datab/.idea/libraries/mysql_connector_java_8_0_18.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java Network/Database_ExampleCode/ch08/datab/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java Network/Database_ExampleCode/ch08/datab/src/FindFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java Network/Database_ExampleCode/ch08/datab/src/addFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java Network/Database_ExampleCode/ch08/datab/src/image/Delete16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java Network/Database_ExampleCode/ch08/datab/src/image/Delete24.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java Network/Database_ExampleCode/ch08/datab/src/image/Edit16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java Network/Database_ExampleCode/ch08/datab/src/image/Edit24.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java Network/Database_ExampleCode/ch08/datab/src/image/Find16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java Network/Database_ExampleCode/ch08/datab/src/image/Find24.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java Network/Database_ExampleCode/ch08/datab/src/image/New16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java Network/Database_ExampleCode/ch08/datab/src/image/New24.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java Network/Database_ExampleCode/ch08/datab/src/image/Save16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java Network/Database_ExampleCode/ch08/datab/src/image/Save24.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java Network/EXAM/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java Network/EXAM/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java Network/EXAM/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java Network/EXAM/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java Network/EXAM/src/htmlform.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java Network/ExamGrpA/.idea/artifacts/ExamGrpA_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java Network/ExamGrpA/.idea/libraries/Java_EE_6_Java_EE_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java Network/ExamGrpA/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java Network/ExamGrpA/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java Network/ExamGrpA/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java Network/ExamGrpA/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java Network/ExamGrpA/src/Servlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java Network/ExamGrpA/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java Network/Java Network.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java Network/Jsp/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java Network/Jsp/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java Network/Jsp/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java Network/Jsp/Jsp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java Network/TomCatassignemet6/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java Network/Tomcat/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java Network/Tomcat/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java Network/Tomcat/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java Network/assignement 3_/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java Network/assignement2/assignement2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java Network/guiThread/src/SwingButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java Network/guiThread/src/SwingButton2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java Network/jsp/.idea/artifacts/jsp_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java Network/jsp/.idea/libraries/mysql_connector_java_8_0_18.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java Network/jsp/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java Network/jsp/web/Echo.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java Network/jsp/web/First.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java Network/jsp/web/Query.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java Network/jsp/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java Network/jsp/web/clock.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java Network/jsp/web/order.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java Network/tomcatapp/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java Network/tomcatapp/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java Network/tomcatapp/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java Network/tomcatapp/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java Network/tomcatapp/src/code.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java Network/tomcatapp/tomcatapp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/@home/CHapter4/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/@home/Chapter5/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/@home/Chapter5/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/@home/Chapter5/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/@home/Chapter5/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/@home/Chapter5/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/@home/Chapter6/app/src/main/java/com/example/chapter6/MainActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/@home/Chapter62/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/@home/Chapter62/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/@home/Chapter62/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/@home/Chapter62/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/@home/Chapter62/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/@home/Chapter62/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/@home/Chapter62/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/@home/Chapter62/app/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/@home/Chapter62/app/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/@home/Chapter62/app/src/androidTest/java/com/example/chapter6/ExampleInstrumentedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/@home/Chapter62/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/@home/Chapter62/app/src/main/java/com/example/chapter6/MainActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/@home/Chapter62/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/@home/Chapter62/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/@home/Chapter62/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/@home/Chapter62/app/src/main/res/layout/content_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/@home/Chapter62/app/src/main/res/menu/menu_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/@home/Chapter62/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/@home/Chapter62/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/@home/Chapter62/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/@home/Chapter62/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/@home/Chapter62/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/@home/Chapter62/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/@home/Chapter62/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/@home/Chapter62/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/@home/Chapter62/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/@home/Chapter62/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/@home/Chapter62/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/@home/Chapter62/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/@home/Chapter62/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/@home/Chapter62/app/src/main/res/values/dimens.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/@home/Chapter62/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/@home/Chapter62/app/src/main/res/values/styles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/@home/Chapter62/app/src/test/java/com/example/chapter6/ExampleUnitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/@home/Chapter62/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/@home/Chapter62/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/@home/Chapter62/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/@home/Chapter62/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/@home/Chapter62/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/@home/Chapter62/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/@home/Chapter62/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/APP/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/APP/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/APP/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/APP/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/APP/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/APP/app/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/APP/app/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/APP/app/src/androidTest/java/com/example/myfirstapplication/ExampleInstrumentedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/APP/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/APP/app/src/main/java/com/example/myfirstapplication/MainActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/APP/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/APP/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/APP/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/APP/app/src/main/res/layout/content_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/APP/app/src/main/res/menu/menu_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/APP/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/APP/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/APP/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/APP/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/APP/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/APP/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/APP/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/APP/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/APP/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/APP/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/APP/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/APP/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/APP/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/APP/app/src/main/res/values/dimens.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/APP/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/APP/app/src/main/res/values/styles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/APP/app/src/test/java/com/example/myfirstapplication/ExampleUnitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/APP/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/APP/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/APP/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/APP/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/APP/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/APP/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/APP/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/App/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/App/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Chapter4Activity/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Chapter4Activity/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Chapter4Activity/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Chapter4Activity/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Chapter4Activity/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Chapter4Activity/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Chapter4Activity/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Chapter4Activity/app/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Chapter4Activity/app/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Chapter4Activity/app/src/androidTest/java/com/example/chapter4activity/ExampleInstrumentedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Chapter4Activity/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Chapter4Activity/app/src/main/java/com/example/chapter4activity/MainActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Chapter4Activity/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Chapter4Activity/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Chapter4Activity/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Chapter4Activity/app/src/main/res/layout/main_menu.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Chapter4Activity/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Chapter4Activity/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Chapter4Activity/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Chapter4Activity/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Chapter4Activity/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Chapter4Activity/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Chapter4Activity/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Chapter4Activity/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Chapter4Activity/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Chapter4Activity/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Chapter4Activity/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Chapter4Activity/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Chapter4Activity/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Chapter4Activity/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Chapter4Activity/app/src/main/res/values/styles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Chapter4Activity/app/src/test/java/com/example/chapter4activity/ExampleUnitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Chapter4Activity/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Chapter4Activity/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Chapter4Activity/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Chapter4Activity/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Chapter4Activity/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Chapter4Activity/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Chapter4Activity/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/.idea/libraries/Gradle__android_arch_core_common_1_0_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/.idea/libraries/Gradle__android_arch_lifecycle_common_1_0_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/.idea/libraries/Gradle__android_arch_lifecycle_runtime_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/.idea/libraries/Gradle__com_android_support_support_annotations_27_0_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/.idea/libraries/Gradle__com_android_support_support_compat_27_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/.idea/libraries/Gradle__com_android_support_support_core_ui_27_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/.idea/libraries/Gradle__com_android_support_support_core_utils_27_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/.idea/libraries/Gradle__com_android_support_support_fragment_27_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/.idea/libraries/Gradle__com_android_support_support_media_compat_27_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/.idea/libraries/Gradle__com_android_support_support_v4_27_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/10-3-IntentAdder/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/10-3-IntentAdder/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/10-3-IntentAdder/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/10-3-IntentAdder/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/10-3-IntentAdder/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/10-3-IntentAdder1/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/10-3-IntentAdder1/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/10-3-IntentAdder1/.idea/libraries/Gradle__com_android_support_support_v4_18_0_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/10-3-IntentAdder1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/10-3-IntentAdder1/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/10-3-IntentAdder1/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/10-3-IntentAdder1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/10-3-IntentAdder1/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/10-3-IntentAdder1/10-3-IntentAdder1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/10-3-IntentAdder1/app/app.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/10-4-IntentPassingComplexData/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/10-4-IntentPassingComplexData/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/10-4-IntentPassingComplexData/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/10-4-IntentPassingComplexData/.idea/libraries/Gradle__android_arch_core_common_1_1_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/10-4-IntentPassingComplexData/.idea/libraries/Gradle__android_arch_core_runtime_1_1_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/10-4-IntentPassingComplexData/.idea/libraries/Gradle__android_arch_lifecycle_common_1_1_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/10-4-IntentPassingComplexData/.idea/libraries/Gradle__android_arch_lifecycle_livedata_1_1_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/10-4-IntentPassingComplexData/.idea/libraries/Gradle__android_arch_lifecycle_livedata_core_1_1_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/10-4-IntentPassingComplexData/.idea/libraries/Gradle__android_arch_lifecycle_runtime_1_1_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/10-4-IntentPassingComplexData/.idea/libraries/Gradle__android_arch_lifecycle_viewmodel_1_1_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/10-4-IntentPassingComplexData/.idea/libraries/Gradle__com_android_support_asynclayoutinflater_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/10-4-IntentPassingComplexData/.idea/libraries/Gradle__com_android_support_collections_28_0_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/10-4-IntentPassingComplexData/.idea/libraries/Gradle__com_android_support_coordinatorlayout_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/10-4-IntentPassingComplexData/.idea/libraries/Gradle__com_android_support_cursoradapter_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/10-4-IntentPassingComplexData/.idea/libraries/Gradle__com_android_support_customview_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/10-4-IntentPassingComplexData/.idea/libraries/Gradle__com_android_support_documentfile_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/10-4-IntentPassingComplexData/.idea/libraries/Gradle__com_android_support_drawerlayout_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/10-4-IntentPassingComplexData/.idea/libraries/Gradle__com_android_support_interpolator_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/10-4-IntentPassingComplexData/.idea/libraries/Gradle__com_android_support_loader_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/10-4-IntentPassingComplexData/.idea/libraries/Gradle__com_android_support_localbroadcastmanager_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/10-4-IntentPassingComplexData/.idea/libraries/Gradle__com_android_support_print_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/10-4-IntentPassingComplexData/.idea/libraries/Gradle__com_android_support_slidingpanelayout_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/10-4-IntentPassingComplexData/.idea/libraries/Gradle__com_android_support_support_annotations_28_0_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/10-4-IntentPassingComplexData/.idea/libraries/Gradle__com_android_support_support_compat_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/10-4-IntentPassingComplexData/.idea/libraries/Gradle__com_android_support_support_core_ui_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/10-4-IntentPassingComplexData/.idea/libraries/Gradle__com_android_support_support_core_utils_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/10-4-IntentPassingComplexData/.idea/libraries/Gradle__com_android_support_support_fragment_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/10-4-IntentPassingComplexData/.idea/libraries/Gradle__com_android_support_support_media_compat_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/10-4-IntentPassingComplexData/.idea/libraries/Gradle__com_android_support_support_v4_18_0_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/10-4-IntentPassingComplexData/.idea/libraries/Gradle__com_android_support_support_v4_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/10-4-IntentPassingComplexData/.idea/libraries/Gradle__com_android_support_swiperefreshlayout_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/10-4-IntentPassingComplexData/.idea/libraries/Gradle__com_android_support_versionedparcelable_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/10-4-IntentPassingComplexData/.idea/libraries/Gradle__com_android_support_viewpager_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/10-4-IntentPassingComplexData/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/10-4-IntentPassingComplexData/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/10-4-IntentPassingComplexData/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/10-4-IntentPassingComplexData/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/10-4-IntentPassingComplexData/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/10-4-IntentPassingComplexData/10-4-IntentPassingComplexData.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/10-4-IntentPassingComplexData/app/app.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/10-4-IntentPassingComplexData/app/src/main/java/com/example/intentdemo3/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-1-ThreadsRunnables/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-1-ThreadsRunnables/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-1-ThreadsRunnables/.idea/libraries/Gradle__android_arch_core_common_1_1_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-1-ThreadsRunnables/.idea/libraries/Gradle__android_arch_core_runtime_1_1_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-1-ThreadsRunnables/.idea/libraries/Gradle__android_arch_lifecycle_common_1_1_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-1-ThreadsRunnables/.idea/libraries/Gradle__android_arch_lifecycle_livedata_1_1_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-1-ThreadsRunnables/.idea/libraries/Gradle__android_arch_lifecycle_livedata_core_1_1_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-1-ThreadsRunnables/.idea/libraries/Gradle__android_arch_lifecycle_runtime_1_1_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-1-ThreadsRunnables/.idea/libraries/Gradle__android_arch_lifecycle_viewmodel_1_1_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-1-ThreadsRunnables/.idea/libraries/Gradle__com_android_support_asynclayoutinflater_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-1-ThreadsRunnables/.idea/libraries/Gradle__com_android_support_collections_28_0_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-1-ThreadsRunnables/.idea/libraries/Gradle__com_android_support_coordinatorlayout_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-1-ThreadsRunnables/.idea/libraries/Gradle__com_android_support_cursoradapter_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-1-ThreadsRunnables/.idea/libraries/Gradle__com_android_support_customview_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-1-ThreadsRunnables/.idea/libraries/Gradle__com_android_support_documentfile_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-1-ThreadsRunnables/.idea/libraries/Gradle__com_android_support_drawerlayout_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-1-ThreadsRunnables/.idea/libraries/Gradle__com_android_support_interpolator_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-1-ThreadsRunnables/.idea/libraries/Gradle__com_android_support_loader_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-1-ThreadsRunnables/.idea/libraries/Gradle__com_android_support_localbroadcastmanager_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-1-ThreadsRunnables/.idea/libraries/Gradle__com_android_support_print_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-1-ThreadsRunnables/.idea/libraries/Gradle__com_android_support_slidingpanelayout_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-1-ThreadsRunnables/.idea/libraries/Gradle__com_android_support_support_annotations_28_0_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-1-ThreadsRunnables/.idea/libraries/Gradle__com_android_support_support_compat_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-1-ThreadsRunnables/.idea/libraries/Gradle__com_android_support_support_core_ui_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-1-ThreadsRunnables/.idea/libraries/Gradle__com_android_support_support_core_utils_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-1-ThreadsRunnables/.idea/libraries/Gradle__com_android_support_support_fragment_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-1-ThreadsRunnables/.idea/libraries/Gradle__com_android_support_support_media_compat_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-1-ThreadsRunnables/.idea/libraries/Gradle__com_android_support_support_v4_18_0_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-1-ThreadsRunnables/.idea/libraries/Gradle__com_android_support_support_v4_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-1-ThreadsRunnables/.idea/libraries/Gradle__com_android_support_swiperefreshlayout_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-1-ThreadsRunnables/.idea/libraries/Gradle__com_android_support_versionedparcelable_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-1-ThreadsRunnables/.idea/libraries/Gradle__com_android_support_viewpager_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-1-ThreadsRunnables/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-1-ThreadsRunnables/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-1-ThreadsRunnables/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-1-ThreadsRunnables/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-1-ThreadsRunnables/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-1-ThreadsRunnables/11-1-ThreadsRunnables.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-1-ThreadsRunnables/app/app.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-2-ThreadsMessages/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-2-ThreadsMessages/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-2-ThreadsMessages/.idea/libraries/Gradle__android_arch_core_common_1_1_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-2-ThreadsMessages/.idea/libraries/Gradle__android_arch_core_runtime_1_1_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-2-ThreadsMessages/.idea/libraries/Gradle__android_arch_lifecycle_common_1_1_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-2-ThreadsMessages/.idea/libraries/Gradle__android_arch_lifecycle_livedata_1_1_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-2-ThreadsMessages/.idea/libraries/Gradle__android_arch_lifecycle_livedata_core_1_1_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-2-ThreadsMessages/.idea/libraries/Gradle__android_arch_lifecycle_runtime_1_1_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-2-ThreadsMessages/.idea/libraries/Gradle__android_arch_lifecycle_viewmodel_1_1_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-2-ThreadsMessages/.idea/libraries/Gradle__com_android_support_asynclayoutinflater_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-2-ThreadsMessages/.idea/libraries/Gradle__com_android_support_collections_28_0_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-2-ThreadsMessages/.idea/libraries/Gradle__com_android_support_coordinatorlayout_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-2-ThreadsMessages/.idea/libraries/Gradle__com_android_support_cursoradapter_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-2-ThreadsMessages/.idea/libraries/Gradle__com_android_support_customview_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-2-ThreadsMessages/.idea/libraries/Gradle__com_android_support_documentfile_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-2-ThreadsMessages/.idea/libraries/Gradle__com_android_support_drawerlayout_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-2-ThreadsMessages/.idea/libraries/Gradle__com_android_support_interpolator_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-2-ThreadsMessages/.idea/libraries/Gradle__com_android_support_loader_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-2-ThreadsMessages/.idea/libraries/Gradle__com_android_support_localbroadcastmanager_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-2-ThreadsMessages/.idea/libraries/Gradle__com_android_support_print_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-2-ThreadsMessages/.idea/libraries/Gradle__com_android_support_slidingpanelayout_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-2-ThreadsMessages/.idea/libraries/Gradle__com_android_support_support_annotations_28_0_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-2-ThreadsMessages/.idea/libraries/Gradle__com_android_support_support_compat_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-2-ThreadsMessages/.idea/libraries/Gradle__com_android_support_support_core_ui_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-2-ThreadsMessages/.idea/libraries/Gradle__com_android_support_support_core_utils_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-2-ThreadsMessages/.idea/libraries/Gradle__com_android_support_support_fragment_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-2-ThreadsMessages/.idea/libraries/Gradle__com_android_support_support_media_compat_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-2-ThreadsMessages/.idea/libraries/Gradle__com_android_support_support_v4_18_0_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-2-ThreadsMessages/.idea/libraries/Gradle__com_android_support_support_v4_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-2-ThreadsMessages/.idea/libraries/Gradle__com_android_support_swiperefreshlayout_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-2-ThreadsMessages/.idea/libraries/Gradle__com_android_support_versionedparcelable_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-2-ThreadsMessages/.idea/libraries/Gradle__com_android_support_viewpager_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-2-ThreadsMessages/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-2-ThreadsMessages/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-2-ThreadsMessages/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-2-ThreadsMessages/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-2-ThreadsMessages/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-2-ThreadsMessages/11-2-ThreadsMessages.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-2-ThreadsMessages/app/app.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-3-ThreadsPosting/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-3-ThreadsPosting/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-3-ThreadsPosting/.idea/libraries/Gradle__android_arch_core_common_1_1_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-3-ThreadsPosting/.idea/libraries/Gradle__android_arch_core_runtime_1_1_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-3-ThreadsPosting/.idea/libraries/Gradle__android_arch_lifecycle_common_1_1_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-3-ThreadsPosting/.idea/libraries/Gradle__android_arch_lifecycle_livedata_1_1_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-3-ThreadsPosting/.idea/libraries/Gradle__android_arch_lifecycle_livedata_core_1_1_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-3-ThreadsPosting/.idea/libraries/Gradle__android_arch_lifecycle_runtime_1_1_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-3-ThreadsPosting/.idea/libraries/Gradle__android_arch_lifecycle_viewmodel_1_1_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-3-ThreadsPosting/.idea/libraries/Gradle__com_android_support_asynclayoutinflater_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-3-ThreadsPosting/.idea/libraries/Gradle__com_android_support_collections_28_0_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-3-ThreadsPosting/.idea/libraries/Gradle__com_android_support_coordinatorlayout_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-3-ThreadsPosting/.idea/libraries/Gradle__com_android_support_cursoradapter_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-3-ThreadsPosting/.idea/libraries/Gradle__com_android_support_customview_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-3-ThreadsPosting/.idea/libraries/Gradle__com_android_support_documentfile_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-3-ThreadsPosting/.idea/libraries/Gradle__com_android_support_drawerlayout_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-3-ThreadsPosting/.idea/libraries/Gradle__com_android_support_interpolator_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-3-ThreadsPosting/.idea/libraries/Gradle__com_android_support_loader_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-3-ThreadsPosting/.idea/libraries/Gradle__com_android_support_localbroadcastmanager_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-3-ThreadsPosting/.idea/libraries/Gradle__com_android_support_print_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-3-ThreadsPosting/.idea/libraries/Gradle__com_android_support_slidingpanelayout_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-3-ThreadsPosting/.idea/libraries/Gradle__com_android_support_support_annotations_28_0_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-3-ThreadsPosting/.idea/libraries/Gradle__com_android_support_support_compat_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-3-ThreadsPosting/.idea/libraries/Gradle__com_android_support_support_core_ui_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-3-ThreadsPosting/.idea/libraries/Gradle__com_android_support_support_core_utils_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-3-ThreadsPosting/.idea/libraries/Gradle__com_android_support_support_fragment_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-3-ThreadsPosting/.idea/libraries/Gradle__com_android_support_support_media_compat_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-3-ThreadsPosting/.idea/libraries/Gradle__com_android_support_support_v4_18_0_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-3-ThreadsPosting/.idea/libraries/Gradle__com_android_support_support_v4_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-3-ThreadsPosting/.idea/libraries/Gradle__com_android_support_swiperefreshlayout_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-3-ThreadsPosting/.idea/libraries/Gradle__com_android_support_versionedparcelable_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-3-ThreadsPosting/.idea/libraries/Gradle__com_android_support_viewpager_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-3-ThreadsPosting/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-3-ThreadsPosting/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-3-ThreadsPosting/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-3-ThreadsPosting/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-3-ThreadsPosting/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-3-ThreadsPosting/11-3-ThreadsPosting.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-3-ThreadsPosting/app/app.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-4-AsyncTaskDemo/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-4-AsyncTaskDemo/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-4-AsyncTaskDemo/.idea/libraries/Gradle__android_arch_core_common_1_1_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-4-AsyncTaskDemo/.idea/libraries/Gradle__android_arch_core_runtime_1_1_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-4-AsyncTaskDemo/.idea/libraries/Gradle__android_arch_lifecycle_common_1_1_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-4-AsyncTaskDemo/.idea/libraries/Gradle__android_arch_lifecycle_livedata_1_1_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-4-AsyncTaskDemo/.idea/libraries/Gradle__android_arch_lifecycle_livedata_core_1_1_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-4-AsyncTaskDemo/.idea/libraries/Gradle__android_arch_lifecycle_runtime_1_1_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-4-AsyncTaskDemo/.idea/libraries/Gradle__android_arch_lifecycle_viewmodel_1_1_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-4-AsyncTaskDemo/.idea/libraries/Gradle__com_android_support_asynclayoutinflater_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-4-AsyncTaskDemo/.idea/libraries/Gradle__com_android_support_collections_28_0_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-4-AsyncTaskDemo/.idea/libraries/Gradle__com_android_support_coordinatorlayout_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-4-AsyncTaskDemo/.idea/libraries/Gradle__com_android_support_cursoradapter_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-4-AsyncTaskDemo/.idea/libraries/Gradle__com_android_support_customview_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-4-AsyncTaskDemo/.idea/libraries/Gradle__com_android_support_documentfile_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-4-AsyncTaskDemo/.idea/libraries/Gradle__com_android_support_drawerlayout_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-4-AsyncTaskDemo/.idea/libraries/Gradle__com_android_support_interpolator_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-4-AsyncTaskDemo/.idea/libraries/Gradle__com_android_support_loader_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-4-AsyncTaskDemo/.idea/libraries/Gradle__com_android_support_localbroadcastmanager_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-4-AsyncTaskDemo/.idea/libraries/Gradle__com_android_support_print_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-4-AsyncTaskDemo/.idea/libraries/Gradle__com_android_support_slidingpanelayout_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-4-AsyncTaskDemo/.idea/libraries/Gradle__com_android_support_support_annotations_28_0_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-4-AsyncTaskDemo/.idea/libraries/Gradle__com_android_support_support_compat_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-4-AsyncTaskDemo/.idea/libraries/Gradle__com_android_support_support_core_ui_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-4-AsyncTaskDemo/.idea/libraries/Gradle__com_android_support_support_core_utils_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-4-AsyncTaskDemo/.idea/libraries/Gradle__com_android_support_support_fragment_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-4-AsyncTaskDemo/.idea/libraries/Gradle__com_android_support_support_media_compat_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-4-AsyncTaskDemo/.idea/libraries/Gradle__com_android_support_support_v4_18_0_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-4-AsyncTaskDemo/.idea/libraries/Gradle__com_android_support_support_v4_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-4-AsyncTaskDemo/.idea/libraries/Gradle__com_android_support_swiperefreshlayout_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-4-AsyncTaskDemo/.idea/libraries/Gradle__com_android_support_versionedparcelable_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-4-AsyncTaskDemo/.idea/libraries/Gradle__com_android_support_viewpager_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-4-AsyncTaskDemo/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-4-AsyncTaskDemo/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-4-AsyncTaskDemo/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-4-AsyncTaskDemo/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-4-AsyncTaskDemo/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-4-AsyncTaskDemo/app/app.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-5-AndroidDerby/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-5-AndroidDerby/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-5-AndroidDerby/.idea/libraries/Gradle__android_arch_core_common_1_1_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-5-AndroidDerby/.idea/libraries/Gradle__android_arch_core_runtime_1_1_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-5-AndroidDerby/.idea/libraries/Gradle__android_arch_lifecycle_common_1_1_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-5-AndroidDerby/.idea/libraries/Gradle__android_arch_lifecycle_livedata_1_1_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-5-AndroidDerby/.idea/libraries/Gradle__android_arch_lifecycle_livedata_core_1_1_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-5-AndroidDerby/.idea/libraries/Gradle__android_arch_lifecycle_runtime_1_1_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-5-AndroidDerby/.idea/libraries/Gradle__android_arch_lifecycle_viewmodel_1_1_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-5-AndroidDerby/.idea/libraries/Gradle__com_android_support_asynclayoutinflater_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-5-AndroidDerby/.idea/libraries/Gradle__com_android_support_collections_28_0_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-5-AndroidDerby/.idea/libraries/Gradle__com_android_support_coordinatorlayout_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-5-AndroidDerby/.idea/libraries/Gradle__com_android_support_cursoradapter_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-5-AndroidDerby/.idea/libraries/Gradle__com_android_support_customview_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-5-AndroidDerby/.idea/libraries/Gradle__com_android_support_documentfile_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-5-AndroidDerby/.idea/libraries/Gradle__com_android_support_drawerlayout_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-5-AndroidDerby/.idea/libraries/Gradle__com_android_support_interpolator_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-5-AndroidDerby/.idea/libraries/Gradle__com_android_support_loader_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-5-AndroidDerby/.idea/libraries/Gradle__com_android_support_localbroadcastmanager_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-5-AndroidDerby/.idea/libraries/Gradle__com_android_support_print_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-5-AndroidDerby/.idea/libraries/Gradle__com_android_support_slidingpanelayout_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-5-AndroidDerby/.idea/libraries/Gradle__com_android_support_support_annotations_28_0_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-5-AndroidDerby/.idea/libraries/Gradle__com_android_support_support_compat_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-5-AndroidDerby/.idea/libraries/Gradle__com_android_support_support_core_ui_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-5-AndroidDerby/.idea/libraries/Gradle__com_android_support_support_core_utils_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-5-AndroidDerby/.idea/libraries/Gradle__com_android_support_support_fragment_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-5-AndroidDerby/.idea/libraries/Gradle__com_android_support_support_media_compat_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-5-AndroidDerby/.idea/libraries/Gradle__com_android_support_support_v4_19_1_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-5-AndroidDerby/.idea/libraries/Gradle__com_android_support_support_v4_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-5-AndroidDerby/.idea/libraries/Gradle__com_android_support_swiperefreshlayout_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-5-AndroidDerby/.idea/libraries/Gradle__com_android_support_versionedparcelable_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-5-AndroidDerby/.idea/libraries/Gradle__com_android_support_viewpager_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-5-AndroidDerby/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-5-AndroidDerby/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-5-AndroidDerby/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-5-AndroidDerby/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-5-AndroidDerby/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-5-AndroidDerby/11-5-AndroidDerby.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/11-5-AndroidDerby/app/app.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-0-SharedPreferences/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-0-SharedPreferences/.idea/dictionaries/g00364974.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-0-SharedPreferences/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-0-SharedPreferences/.idea/libraries/Gradle__android_arch_core_common_1_1_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-0-SharedPreferences/.idea/libraries/Gradle__android_arch_core_runtime_1_1_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-0-SharedPreferences/.idea/libraries/Gradle__android_arch_lifecycle_common_1_1_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-0-SharedPreferences/.idea/libraries/Gradle__android_arch_lifecycle_livedata_1_1_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-0-SharedPreferences/.idea/libraries/Gradle__android_arch_lifecycle_livedata_core_1_1_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-0-SharedPreferences/.idea/libraries/Gradle__android_arch_lifecycle_runtime_1_1_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-0-SharedPreferences/.idea/libraries/Gradle__android_arch_lifecycle_viewmodel_1_1_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-0-SharedPreferences/.idea/libraries/Gradle__com_android_support_asynclayoutinflater_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-0-SharedPreferences/.idea/libraries/Gradle__com_android_support_collections_28_0_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-0-SharedPreferences/.idea/libraries/Gradle__com_android_support_coordinatorlayout_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-0-SharedPreferences/.idea/libraries/Gradle__com_android_support_cursoradapter_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-0-SharedPreferences/.idea/libraries/Gradle__com_android_support_customview_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-0-SharedPreferences/.idea/libraries/Gradle__com_android_support_documentfile_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-0-SharedPreferences/.idea/libraries/Gradle__com_android_support_drawerlayout_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-0-SharedPreferences/.idea/libraries/Gradle__com_android_support_interpolator_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-0-SharedPreferences/.idea/libraries/Gradle__com_android_support_loader_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-0-SharedPreferences/.idea/libraries/Gradle__com_android_support_localbroadcastmanager_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-0-SharedPreferences/.idea/libraries/Gradle__com_android_support_print_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-0-SharedPreferences/.idea/libraries/Gradle__com_android_support_slidingpanelayout_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-0-SharedPreferences/.idea/libraries/Gradle__com_android_support_support_annotations_28_0_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-0-SharedPreferences/.idea/libraries/Gradle__com_android_support_support_compat_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-0-SharedPreferences/.idea/libraries/Gradle__com_android_support_support_core_ui_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-0-SharedPreferences/.idea/libraries/Gradle__com_android_support_support_core_utils_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-0-SharedPreferences/.idea/libraries/Gradle__com_android_support_support_fragment_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-0-SharedPreferences/.idea/libraries/Gradle__com_android_support_support_media_compat_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-0-SharedPreferences/.idea/libraries/Gradle__com_android_support_support_v4_19_1_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-0-SharedPreferences/.idea/libraries/Gradle__com_android_support_support_v4_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-0-SharedPreferences/.idea/libraries/Gradle__com_android_support_swiperefreshlayout_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-0-SharedPreferences/.idea/libraries/Gradle__com_android_support_versionedparcelable_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-0-SharedPreferences/.idea/libraries/Gradle__com_android_support_viewpager_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-0-SharedPreferences/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-0-SharedPreferences/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-0-SharedPreferences/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-0-SharedPreferences/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-0-SharedPreferences/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-0-SharedPreferences/12-0-SharedPreferences.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-0-SharedPreferences/app/app.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-1-FileEmbeddedResources/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-1-FileEmbeddedResources/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-1-FileEmbeddedResources/.idea/libraries/Gradle__android_arch_core_common_1_1_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-1-FileEmbeddedResources/.idea/libraries/Gradle__android_arch_core_runtime_1_1_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-1-FileEmbeddedResources/.idea/libraries/Gradle__android_arch_lifecycle_common_1_1_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-1-FileEmbeddedResources/.idea/libraries/Gradle__android_arch_lifecycle_livedata_1_1_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-1-FileEmbeddedResources/.idea/libraries/Gradle__android_arch_lifecycle_livedata_core_1_1_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-1-FileEmbeddedResources/.idea/libraries/Gradle__android_arch_lifecycle_runtime_1_1_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-1-FileEmbeddedResources/.idea/libraries/Gradle__android_arch_lifecycle_viewmodel_1_1_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-1-FileEmbeddedResources/.idea/libraries/Gradle__com_android_support_asynclayoutinflater_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-1-FileEmbeddedResources/.idea/libraries/Gradle__com_android_support_collections_28_0_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-1-FileEmbeddedResources/.idea/libraries/Gradle__com_android_support_coordinatorlayout_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-1-FileEmbeddedResources/.idea/libraries/Gradle__com_android_support_cursoradapter_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-1-FileEmbeddedResources/.idea/libraries/Gradle__com_android_support_customview_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-1-FileEmbeddedResources/.idea/libraries/Gradle__com_android_support_documentfile_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-1-FileEmbeddedResources/.idea/libraries/Gradle__com_android_support_drawerlayout_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-1-FileEmbeddedResources/.idea/libraries/Gradle__com_android_support_interpolator_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-1-FileEmbeddedResources/.idea/libraries/Gradle__com_android_support_loader_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-1-FileEmbeddedResources/.idea/libraries/Gradle__com_android_support_localbroadcastmanager_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-1-FileEmbeddedResources/.idea/libraries/Gradle__com_android_support_print_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-1-FileEmbeddedResources/.idea/libraries/Gradle__com_android_support_slidingpanelayout_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-1-FileEmbeddedResources/.idea/libraries/Gradle__com_android_support_support_annotations_28_0_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-1-FileEmbeddedResources/.idea/libraries/Gradle__com_android_support_support_compat_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-1-FileEmbeddedResources/.idea/libraries/Gradle__com_android_support_support_core_ui_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-1-FileEmbeddedResources/.idea/libraries/Gradle__com_android_support_support_core_utils_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-1-FileEmbeddedResources/.idea/libraries/Gradle__com_android_support_support_fragment_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-1-FileEmbeddedResources/.idea/libraries/Gradle__com_android_support_support_media_compat_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-1-FileEmbeddedResources/.idea/libraries/Gradle__com_android_support_support_v4_19_1_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-1-FileEmbeddedResources/.idea/libraries/Gradle__com_android_support_support_v4_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-1-FileEmbeddedResources/.idea/libraries/Gradle__com_android_support_swiperefreshlayout_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-1-FileEmbeddedResources/.idea/libraries/Gradle__com_android_support_versionedparcelable_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-1-FileEmbeddedResources/.idea/libraries/Gradle__com_android_support_viewpager_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-1-FileEmbeddedResources/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-1-FileEmbeddedResources/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-1-FileEmbeddedResources/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-1-FileEmbeddedResources/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-1-FileEmbeddedResources/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-1-FileEmbeddedResources/12-1-FileEmbeddedResources.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-1-FileEmbeddedResources/app/app.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-2-FileInternalFileReadWrite/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-2-FileInternalFileReadWrite/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-2-FileInternalFileReadWrite/.idea/libraries/Gradle__com_android_support_support_v4_19_1_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-2-FileInternalFileReadWrite/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-2-FileInternalFileReadWrite/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-2-FileInternalFileReadWrite/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-2-FileInternalFileReadWrite/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-2-FileInternalFileReadWrite/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-2-FileInternalFileReadWrite/12-2-FileInternalFileReadWrite.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-2-FileInternalFileReadWrite/app/app.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-3-FileExternalSDCard/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-3-FileExternalSDCard/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-3-FileExternalSDCard/.idea/libraries/Gradle__android_arch_core_common_1_1_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-3-FileExternalSDCard/.idea/libraries/Gradle__android_arch_core_runtime_1_1_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-3-FileExternalSDCard/.idea/libraries/Gradle__android_arch_lifecycle_common_1_1_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-3-FileExternalSDCard/.idea/libraries/Gradle__android_arch_lifecycle_livedata_1_1_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-3-FileExternalSDCard/.idea/libraries/Gradle__android_arch_lifecycle_livedata_core_1_1_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-3-FileExternalSDCard/.idea/libraries/Gradle__android_arch_lifecycle_runtime_1_1_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-3-FileExternalSDCard/.idea/libraries/Gradle__android_arch_lifecycle_viewmodel_1_1_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-3-FileExternalSDCard/.idea/libraries/Gradle__com_android_support_asynclayoutinflater_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-3-FileExternalSDCard/.idea/libraries/Gradle__com_android_support_collections_28_0_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-3-FileExternalSDCard/.idea/libraries/Gradle__com_android_support_coordinatorlayout_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-3-FileExternalSDCard/.idea/libraries/Gradle__com_android_support_cursoradapter_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-3-FileExternalSDCard/.idea/libraries/Gradle__com_android_support_customview_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-3-FileExternalSDCard/.idea/libraries/Gradle__com_android_support_documentfile_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-3-FileExternalSDCard/.idea/libraries/Gradle__com_android_support_drawerlayout_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-3-FileExternalSDCard/.idea/libraries/Gradle__com_android_support_interpolator_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-3-FileExternalSDCard/.idea/libraries/Gradle__com_android_support_loader_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-3-FileExternalSDCard/.idea/libraries/Gradle__com_android_support_localbroadcastmanager_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-3-FileExternalSDCard/.idea/libraries/Gradle__com_android_support_print_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-3-FileExternalSDCard/.idea/libraries/Gradle__com_android_support_slidingpanelayout_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-3-FileExternalSDCard/.idea/libraries/Gradle__com_android_support_support_annotations_28_0_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-3-FileExternalSDCard/.idea/libraries/Gradle__com_android_support_support_compat_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-3-FileExternalSDCard/.idea/libraries/Gradle__com_android_support_support_core_ui_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-3-FileExternalSDCard/.idea/libraries/Gradle__com_android_support_support_core_utils_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-3-FileExternalSDCard/.idea/libraries/Gradle__com_android_support_support_fragment_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-3-FileExternalSDCard/.idea/libraries/Gradle__com_android_support_support_media_compat_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-3-FileExternalSDCard/.idea/libraries/Gradle__com_android_support_support_v4_19_1_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-3-FileExternalSDCard/.idea/libraries/Gradle__com_android_support_support_v4_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-3-FileExternalSDCard/.idea/libraries/Gradle__com_android_support_swiperefreshlayout_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-3-FileExternalSDCard/.idea/libraries/Gradle__com_android_support_versionedparcelable_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-3-FileExternalSDCard/.idea/libraries/Gradle__com_android_support_viewpager_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-3-FileExternalSDCard/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-3-FileExternalSDCard/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-3-FileExternalSDCard/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-3-FileExternalSDCard/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-3-FileExternalSDCard/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-3-FileExternalSDCard/12-3-FileExternalSDCard.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-1-Intents-BuiltIn/10-1-Intents-BuiltIn/12-3-FileExternalSDCard/app/app.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-2-Intent-ContentProvidersGolf/10-2-Intent-ContentProvidersGolf/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-2-Intent-ContentProvidersGolf/10-2-Intent-ContentProvidersGolf/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-2-Intent-ContentProvidersGolf/10-2-Intent-ContentProvidersGolf/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/Intent/10-2-Intent-ContentProvidersGolf/10-2-Intent-ContentProvidersGolf/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/chap4/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/chap4/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/chap4/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/chap4/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/chap4/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/chap4/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/chap4/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/chap4/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/chap4/app/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/chap4/app/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/chap4/app/src/androidTest/java/com/example/chap4/ExampleInstrumentedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/chap4/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/chap4/app/src/main/java/com/example/chap4/MainActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/chap4/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/chap4/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/chap4/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/chap4/app/src/main/res/layout/main_menu.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/chap4/app/src/main/res/layout/my_table_layout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/chap4/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/chap4/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/chap4/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/chap4/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/chap4/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/chap4/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/chap4/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/chap4/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/chap4/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/chap4/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/chap4/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/chap4/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/chap4/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/chap4/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/chap4/app/src/main/res/values/styles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/chap4/app/src/test/java/com/example/chap4/ExampleUnitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/chap4/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/chap4/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/chap4/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/chap4/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/chap4/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/chap4/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Mobile app dev/chap4/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Maven/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Maven/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Maven/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Maven/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Maven/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Maven/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Maven/Maven.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Maven/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Maven/src/main/java/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Week10lab/Week10/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Week10lab/Week10/src/ie/gmit/productv4/Animals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Week10lab/Week10/src/ie/gmit/productv4/ArrayList_test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Week10lab/Week10/src/ie/gmit/productv4/Music.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Week10lab/Week10/src/ie/gmit/productv4/TV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Week10lab/Week10/src/ie/gmit/productv4/dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Week10lab/Week10/src/ie/gmit/productv4/horse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Week10lab/Week10/src/ie/gmit/productv4/printable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Week10lab/Week10/src/ie/gmit/resources/META-INF/MANIFEST.MF" afterDir="false" />
+    <list default="true" id="53164a58-1d26-44f2-b01e-fa170b5f350a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/g00364974.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Counter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ie/gmit/CounterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Counter-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/jacoco.exec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/jacoco/ie.gmit/Counter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/jacoco/ie.gmit/Counter.java.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/jacoco/ie.gmit/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/jacoco/ie.gmit/index.source.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/jacoco/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/jacoco/jacoco-resources/branchfc.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/jacoco/jacoco-resources/branchnc.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/jacoco/jacoco-resources/branchpc.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/jacoco/jacoco-resources/bundle.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/jacoco/jacoco-resources/class.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/jacoco/jacoco-resources/down.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/jacoco/jacoco-resources/greenbar.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/jacoco/jacoco-resources/group.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/jacoco/jacoco-resources/method.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/jacoco/jacoco-resources/package.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/jacoco/jacoco-resources/prettify.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/jacoco/jacoco-resources/prettify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/jacoco/jacoco-resources/redbar.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/jacoco/jacoco-resources/report.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/jacoco/jacoco-resources/report.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/jacoco/jacoco-resources/session.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/jacoco/jacoco-resources/sort.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/jacoco/jacoco-resources/sort.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/jacoco/jacoco-resources/source.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/jacoco/jacoco-resources/up.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/jacoco/jacoco-sessions.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/jacoco/jacoco.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/jacoco/jacoco.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/2020-02-20T11-07-13_529-jvmRun1.dumpstream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-ie.gmit.CounterTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/ie.gmit.CounterTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/META-INF/Counter.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ie/gmit/Counter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ie/gmit/Counter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ie/gmit/Counter_test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -685,38 +63,57 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" column="10" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ie/gmit/Counter.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/encodings.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-              <folding>
-                <element signature="e#173#174#0" expanded="true" />
-                <element signature="e#195#196#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="807">
+              <caret line="65" selection-start-line="65" selection-end-line="65" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ie/gmit/Counter_test.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ie/gmit/Counter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            <state relative-caret-position="170">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#105#106#0" expanded="true" />
-                <element signature="e#149#150#0" expanded="true" />
-                <element signature="e#198#199#0" expanded="true" />
-                <element signature="e#231#232#0" expanded="true" />
+                <element signature="e#585#586#0" expanded="true" />
+                <element signature="e#613#614#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ie/gmit/CounterTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="178">
+              <caret line="64" column="41" lean-forward="true" selection-start-line="64" selection-start-column="41" selection-end-line="64" selection-end-column="41" />
+              <folding>
+                <element signature="e#1315#1497#0" expanded="true" />
+                <element signature="e#1496#1497#0" expanded="true" />
+                <element signature="e#1666#1794#0" expanded="true" />
+                <element signature="e#1793#1794#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -724,32 +121,18 @@
       </file>
     </leaf>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/Counter_test.java" />
         <option value="$PROJECT_DIR$/src/test/java/ie/gmit/Counter_test.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ie/gmit/Countertest.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/ie/gmit/Counter.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ie/gmit/CounterTest.java" />
       </list>
-    </option>
-  </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
     </option>
   </component>
   <component name="MavenProjectNavigator">
@@ -768,26 +151,18 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      </list>
-    </option>
-  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1296" />
-    <option name="height" value="1000" />
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1260" />
+    <option name="height" value="944" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -842,29 +217,43 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="gmit" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Counter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Counter" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Counter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Counter" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="site" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Counter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Counter" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="site" type="462c0819:PsiDirectoryNode" />
+              <item name="jacoco" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Counter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Counter" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="site" type="462c0819:PsiDirectoryNode" />
+              <item name="jacoco" type="462c0819:PsiDirectoryNode" />
+              <item name="ie.gmit" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Maven" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="ie.gmit" />
-    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -878,52 +267,103 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="JUnit.CounterTest">
+    <configuration name="CounterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Counter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ie.gmit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ie.gmit" />
+      <option name="MAIN_CLASS_NAME" value="ie.gmit.CounterTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Counter_test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Counter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ie.gmit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ie.gmit" />
+      <option name="MAIN_CLASS_NAME" value="ie.gmit.Counter_test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CounterTest" />
+        <item itemvalue="JUnit.Counter_test" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c49ea26a-1a93-47cf-9835-447135320c36" name="Default Changelist" comment="" />
-      <created>1581592483474</created>
+      <changelist id="53164a58-1d26-44f2-b01e-fa170b5f350a" name="Default Changelist" comment="" />
+      <created>1581610380501</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1581592483474</updated>
-      <workItem from="1581592484734" duration="77000" />
-      <workItem from="1581592588392" duration="1730000" />
+      <updated>1581610380501</updated>
+      <workItem from="1581610386362" duration="344000" />
+      <workItem from="1582196756983" duration="1674000" />
     </task>
-    <task id="LOCAL-00001" summary="Test #2">
-      <created>1581594048874</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1581594048874</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Test #2">
-      <created>1581594299230</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1581594299230</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="Counter_test - 2020.02.20 at 11h 07m 06s.xml">
+      <configuration name="Counter_test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Counter_test - 2020.02.20 at 11h 11m 29s.xml">
+      <configuration name="Counter_test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Counter_test - 2020.02.20 at 11h 13m 05s.xml">
+      <configuration name="Counter_test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CounterTest - 2020.02.20 at 11h 13m 09s.xml">
+      <configuration name="CounterTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CounterTest - 2020.02.20 at 11h 13m 28s.xml">
+      <configuration name="CounterTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CounterTest - 2020.02.20 at 11h 16m 10s.xml">
+      <configuration name="CounterTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CounterTest - 2020.02.20 at 11h 24m 47s.xml">
+      <configuration name="CounterTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CounterTest - 2020.02.20 at 11h 25m 22s.xml">
+      <configuration name="CounterTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1807000" />
+    <option name="totallyTimeSpent" value="2018000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25305623" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18643032" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.32922733" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49938875" visible="true" weight="0.32922733" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3281075" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -932,13 +372,13 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50061125" side_tool="true" weight="0.32922733" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="Maven" order="5" weight="0.3294621" />
+      <window_info anchor="right" id="Maven" order="5" visible="true" weight="0.08863081" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Database" order="8" />
@@ -947,116 +387,66 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Test" />
-    <MESSAGE value="Test #2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test #2" />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="10" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/encodings.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ie/gmit/Counter_test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#105#106#0" expanded="true" />
-            <element signature="e#149#150#0" expanded="true" />
-            <element signature="e#198#199#0" expanded="true" />
-            <element signature="e#231#232#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="68">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ie/gmit/Counter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
           <folding>
-            <element signature="e#173#174#0" expanded="true" />
-            <element signature="e#195#196#0" expanded="true" />
+            <element signature="e#585#586#0" expanded="true" />
+            <element signature="e#613#614#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>Counter</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="807">
+          <caret line="65" selection-start-line="65" selection-end-line="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/site/jacoco/ie.gmit/Counter.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#764#768#0" expanded="true" />
+            <element signature="e#821#825#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ie/gmit/CounterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="64" column="41" lean-forward="true" selection-start-line="64" selection-start-column="41" selection-end-line="64" selection-end-column="41" />
+          <folding>
+            <element signature="e#1315#1497#0" expanded="true" />
+            <element signature="e#1496#1497#0" expanded="true" />
+            <element signature="e#1666#1794#0" expanded="true" />
+            <element signature="e#1793#1794#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
